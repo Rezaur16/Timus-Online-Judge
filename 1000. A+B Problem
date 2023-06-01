@@ -1,5 +1,5 @@
-//Timus 1000 Solution
-//#include<stdio.h>
+
+//#include<stdio.h> // C language HeaderFile
 #include<iostream>
 using namespace std;
 
